@@ -4,10 +4,12 @@ import Constructor from "./src/Patterns/Constructor";
 import Builder from "./src/Patterns/Builder";
 import AbstractFactory from "./src/Patterns/AbstractFactory";
 import Iterator from "./src/Patterns/Iteratior";
+import Observer from "./src/Patterns/Observer";
 
 // new Module();
 // new Singleton();
 // new Constructor();
 // new Builder();
 // new AbstractFactory();
-new Iterator();
+// new Iterator();
+new Observer();
